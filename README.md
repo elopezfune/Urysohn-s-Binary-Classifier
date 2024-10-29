@@ -76,5 +76,3 @@ If you use this work, please cite:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-This README provides a structured overview for potential users and researchers, summarizing the classifier’s key features, usage, and results. Let me know if you need more customization for specific sections!
